@@ -1,0 +1,22 @@
+
+.caja1{
+	background: yellow;
+	display: inline-block;
+	width: 10%;
+	height:10%;
+	padding: 0 100px 100px 0;
+}
+.caja2{
+	background: red;
+	display: inline-block;
+	width: 10%;
+	height:10%;
+	padding: 0 100px 100px 0;
+}
+.caja3{
+	background: yellow;
+	display: inline-block;
+	width: 10%;
+	height:10%;
+	padding: 0 100px 100px 0;
+}
